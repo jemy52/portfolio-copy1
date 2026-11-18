@@ -295,8 +295,8 @@ if (downloadCvBtn && typeof window.jspdf !== 'undefined') {
         const edu = [
             { school: 'Bachelor of Science in Information Technology', date: '2024 - 2028', place: 'The Co-operative University of Kenya' },
             { school: 'Web Development Bootcamp', date: '2025 - 2026', place: 'Semantic HTML, CSS layout engines & responsive design' },
-            { school: 'Precious Blood Kilungu High School', date: '2020 - 2023', place: 'KCSE Examinations - Grade B' },
-            { school: 'Unity Primary School', date: '2017 - 2019', place: 'KCPE Examinations - 375 marks' }
+            { school: 'Precious Blood Kilungu High School', date: '2020 - 2023',},
+            { school: 'Unity Primary School', date: '2017 - 2019', }
         ];
         let y = 172;
         edu.forEach(e => {
